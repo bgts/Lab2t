@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>My JSP 'success.jsp' starting page</title>
+<title>Search Result</title>
 
 
 </head>
